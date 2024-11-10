@@ -13,3 +13,8 @@ words in it.
 ## what's next for Slang Translator
 In the future, I plan to use a different API that is more school-appropriate. Also, I will try to 
 make the experience available to the other major browsers. 
+
+## download
+Download the project by installing all the files, going to chrome://extensions, enabling
+developer mode, and by clicking "Load Unpackerd. This project will be available on the
+Chrome Extension store soon.
